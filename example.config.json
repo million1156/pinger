@@ -1,0 +1,18 @@
+{
+  "token": "token",
+  "devEnv": false,
+  "clientId": "123",
+  "guildId": "456",
+  "errorEmoji": "<:error:1184551690351947846>",
+  "successEmoji": "<:success:1184551688623894660>",
+  "warningEmoji": "<:warning:1184551691132076052>",
+  "defaultActivity": "a",
+  "activityType": 1,
+  "activePing": "789",
+  "logChannel": "101112",
+
+  "embed": {
+    "color": "#0000",
+    "footer": "nothing"
+  }
+}

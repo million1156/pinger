@@ -1,0 +1,30 @@
+{
+  "name": "crescent-bot",
+  "version": "1.0.0",
+  "description": "crescent bot for arch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mllion1156",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.1",
+    "chalk": "^4.1.1",
+    "discord-api-types": "^0.37.59",
+    "discord.js": "^14.0.2",
+    "download": "^8.0.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.7",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.7.0",
+    "paypal-node-sdk": "^2.0.3",
+    "paypal-rest-sdk": "^1.8.1",
+    "rest": "^2.0.0",
+    "stripe": "^14.3.0"
+  },
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
